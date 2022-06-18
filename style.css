@@ -1,0 +1,22 @@
+.atb-paket {
+    width: 500px;
+    height: 400px;
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.menu-item{
+    color: rgb(248, 246, 244);
+    text-decoration: none;
+}
+.menu-item:hover{
+    color: blue;
+    background-color: rgb(253, 252, 250);
+}
+
