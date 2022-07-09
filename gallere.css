@@ -1,0 +1,21 @@
+.gallery {
+    display: flex;
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+}
+.contrals {
+    width: fit-content;
+    margin: 0 auto;
+    padding-top: 20px;
+
+}
+.contrals button {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#left_button {
+    background-color: blue;
+}
